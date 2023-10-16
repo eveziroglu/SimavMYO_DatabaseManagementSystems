@@ -1,6 +1,3 @@
-
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
 # İş Kuralları, Veri Modelleri, Varlık Bağıntı Modeli
 
 ## Konular
