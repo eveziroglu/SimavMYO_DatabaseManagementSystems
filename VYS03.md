@@ -1,6 +1,3 @@
-
-BSM211 Veritabanı Yönetim Sistemleri - Celal ÇEKEN, İsmail ÖZTEL, Veysel Harun ŞAHİN
-
 # Varlık Bağıntı Modeli - Örnek Uygulamalar
 
 
