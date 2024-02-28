@@ -80,7 +80,7 @@
 ## Veritabanı Sistemi Ortamı
 
 * Donanım
-  + Suncular, iş istasyonları, ağ ortamı, depolama cihazları, raid vb.
+  + Sunucular, iş istasyonları, ağ ortamı, depolama cihazları, raid vb.
 * Yazılım
   + İşletim Sistemleri
   + VTYS (PostgreSQL, MySQL, DB2, Oracle, MSSQL, Cassandra, MongoDB, Redis  vb.)
